@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Crypto Miners for home heating - the ultimate combination of efficiency and memes!">
+    <title>Crypto Heat - Meme Your Winter!</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body class="background">
+    <header>
+        <div class="logo">🔥 CryptoHeat</div>
+        <nav>
+            <ul class="nav-links">
+                <li><a href="#products">Products</a></li>
+                <li><a href="#how-it-works">How It Works</a></li>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero">
+            <h1>Heat Your Home with Crypto Power!</h1>
+            <p>Turn winter into a mining season. Stay warm, stay rich. 🌟</p>
+            <a href="#products" class="btn">Shop Now</a>
+        </section>
+
+        <section id="products" class="products">
+            <h2>Our Crypto Mining Heaters</h2>
+            <div class="product-grid">
+                <div class="product">
+                    <img src="crypto-heater1.jpg" alt="Crypto Heater Model A">
+                    <h3>Crypto Heater Model A</h3>
+                    <p>Perfect for small rooms. Mines ETH while keeping you toasty.</p>
+                    <span class="price">$499</span>
+                    <button class="btn">Add to Cart</button>
+                </div>
+                <div class="product">
+                    <img src="crypto-heater2.jpg" alt="Crypto Heater Model B">
+                    <h3>Crypto Heater Model B</h3>
+                    <p>Optimal for medium-sized spaces. BTC mining power included!</p>
+                    <span class="price">$899</span>
+                    <button class="btn">Add to Cart</button>
+                </div>
+                <div class="product">
+                    <img src="crypto-heater3.jpg" alt="Crypto Heater Model C">
+                    <h3>Crypto Heater Model C</h3>
+                    <p>Heats large spaces while mining multiple coins. Ultimate efficiency.</p>
+                    <span class="price">$1,299</span>
+                    <button class="btn">Add to Cart</button>
+                </div>
+            </div>
+        </section>
+
+        <section id="how-it-works" class="how-it-works">
+            <h2>How It Works</h2>
+            <ol>
+                <li>Set up the Crypto Heater in your room.</li>
+                <li>Connect to your preferred crypto wallet.</li>
+                <li>Enjoy the warmth while mining digital gold! 💰</li>
+            </ol>
+        </section>
+
+        <section id="about" class="about">
+            <h2>About Us</h2>
+            <p>We combine the best of heating and crypto mining for a greener, warmer, and richer tomorrow. At CryptoHeat, memes are our lifeblood, and innovation is our mission.</p>
+        </section>
+
+        <section id="contact" class="contact">
+            <h2>Contact Us</h2>
+            <form>
+                <label for="name">Your Name:</label>
+                <input type="text" id="name" name="name" required>
+                
+                <label for="email">Your Email:</label>
+                <input type="email" id="email" name="email" required>
+                
+                <label for="message">Your Message:</label>
+                <textarea id="message" name="message" rows="5" required></textarea>
+                
+                <button type="submit" class="btn">Send Message</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2024 CryptoHeat. All rights reserved. Powered by memes and innovation. 🚀</p>
+    </footer>
+</body>
+</html>
